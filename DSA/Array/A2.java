@@ -1,5 +1,3 @@
-package DSA.Array;
-
 public class A2 {
     public static void main(String[] args) {
         int[] arr ={10, 25, 7, 99, 45};
